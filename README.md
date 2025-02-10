@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou Lucas Diniz 👋
 
-<!--
-**LucasDinizS/LucasDinizS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub! Sou Aluno do ensino Médio + Técnico Cotemig apaixonado em desenvolver novos conhecimento. Neste espaço, compartilho meus projetos, contribuições e aprendizado contínuo.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Atualmente, estou trabalhando como desenvolvedor front ent na Perugluglu desenvolvendo soluções gamificadas para empresas.
+- 🌱 Sempre aprendendo novas tecnologias e expandindo meus conhecimentos sobre as linguagens que eu já domino.
+- 💬 Fique à vontade para me perguntar sobre meus projetos ou colaborar no desenvolvimento.
+
+## 🔧 Ferramentas & Tecnologias que uso
+
+- **Linguagens:** [Java, JavaScript, HTML, CSS e C#]
+- **Versionamento de Código:** [Git]
+- **Banco de Dados:** [MySQL]
+
+## 🔗 Conecte-se comigo
+
+- [LinkedIn](https://www.linkedin.com/in/lucas-diniz-b1a975279/)
